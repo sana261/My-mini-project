@@ -1,0 +1,141 @@
+* {
+    background-color: rgba(255, 192, 203, 0.186);
+}
+h1 {
+    background-color: white;
+    margin-left: 20px;
+}
+p {
+    background-color: white;
+    color: rgba(12, 0, 0, 0.747);
+    margin-left: 20px;
+}
+div {
+    height: 1400px;
+    width:600px;
+    background-color: white;
+    border:none ;
+    border-radius: 12px;
+}
+#image {
+    width:550px;
+    margin-left:20px;
+    margin-top: 20px;
+    border:none ;
+    border-radius: 12px;
+}
+#logo2 {
+    background-color: #fff;
+}
+h2 {
+    background-color: #fff;
+    margin-left: 15px;
+    color:rgb(116, 28, 43);
+}
+
+h3 {
+    background-color: white;
+    margin-left: 20px;
+}
+/* .recpie-container {
+    background-color:rgba(255, 192, 203, 0.479) ;
+}
+.recpie-container li {
+    background-color: rgba(255, 192, 203, 0.479);
+} */
+.Ingredients {
+    background-color: #fff;
+}
+.Ingredients li {
+    background-color: #fff;
+}
+hr {
+    margin: 12px;
+}
+#heading {
+    margin: 0;
+}
+.instructions {
+    background-color: #fff;
+}
+.instructions li {
+    background-color: #fff;
+}
+b {
+    background-color: #fff;
+}
+#para2 {
+    text-decoration: none;
+}
+.div2 {
+    margin: 15px;
+}
+#logo2 {
+    background-color: rgba(255, 192, 203, 0.479);
+    height: 145px;
+    width: 550px;
+    margin-left: 20px;
+    padding-top: 10px;
+    color:rgb(116, 28, 43) ;
+    /* margin-right:130px; */
+}
+#logo3 {
+    background-color:rgba(255, 192, 203, 0.479) ;
+}
+.conatiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding:20px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px;
+}
+.bold {
+    background-color:rgba(255, 192, 203, 0.479) ;
+}
+
+
+/* Nutrition info text ke liye styling */
+.nutrition-info p {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+    
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 18px;
+    color: #333;
+    background-color: #fff;
+}
+
+table tr {
+    border-bottom: 1px solid #ddd; /* Row ke neeche line */
+}
+
+table td {
+    padding: 10px 0; /* Vertical padding for space */
+}
+
+table td:first-child {
+    font-weight: normal;
+}
+
+table td:last-child strong {
+    color: #8B0000; /* Color bold text ke liye */
+    font-weight: bold;
+}
+
+
+
+
+
